@@ -11,7 +11,7 @@ import observer.SendPointsObserver;
 
 /**
  *
- * @author Shashi
+ * @author chanaka
  */
 public class SendPointsObserverImpl extends UnicastRemoteObject implements SendPointsObserver{
 
